@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 🎓 Computer Science Student  
-- 💻 Full Stack Developer (MERN Stack)  
+- 💻 Web / App  Developer   
 - 📱 Mobile App Development Enthusiast  
 - 🤖 Passionate about Artificial Intelligence & Data Analysis  
 - 📊 Experience with Tableau & Data Visualization  
