@@ -1,87 +1,96 @@
-<h1 align="center">Hi 👋, I'm Malik Hassam Ullah</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | Mobile App Developer</h3>
+# 👋 Hi, I'm Malik Hassam Ullah
+
+## ⚡ Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ---
 
-## 🚀 About Me
-- 🎓 Computer Science Student  
-- 💻 Web / App  Developer   
-- 📱 Mobile App Development Enthusiast  
-- 🤖 Passionate about Artificial Intelligence & Data Analysis  
-- 📊 Experience with Tableau & Data Visualization  
-- 🌱 Currently learning advanced backend & scalable systems  
+## 🧩 Frameworks & Libraries
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🗄️ Databases
 
-### 💻 Programming Languages
-- C#
-- Python
-- JavaScript
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
-### 🌐 Web Development (MERN Stack)
-- React.js
-- Node.js
-- Express.js
-- MongoDB
+---
 
-### 📱 Mobile App Development
-- React Native / Android (java/kotlin)
-
-### 🗄️ Databases
-- MongoDB
-- SQL (MySQL / SQL Server)
-
-### ⚙️ Tools & Technologies
-- Git & GitHub
-- Docker
-- Visual Studio / VS Code
-- Tableau
+## 🛠️ Tools & Technologies
+- Git & GitHub  
+- Visual Studio / VS Code  
+- Docker (Basic)  
+- Tableau  
+- MATLAB  
 
 ---
 
 ## 📂 Projects
 
-### 🏦 ATM Banking System
-- Console-based C# application
-- Features: Authentication, Transactions, Admin Panel
+- 🏦 **ATM Banking System (C#)**  
+  Console-based system with authentication, transactions & admin panel  
 
-### 📈 MATLAB Curve Fitting
-- Implemented quadratic model using least squares
-- Data visualization & graph plotting
+- 📈 **MATLAB Curve Fitting Project**  
+  Least squares method for quadratic data modeling  
 
-### 🤖 AI / Data Analysis Project
-- Machine learning concepts + Tableau dashboards
+- 🤖 **AI / Data Analysis Project**  
+  Data visualization & insights using Tableau  
 
-### 🌐 Web / App Projects 
-- MERN stack applications
-- Mobile apps (React Native / Android)
+- 🌐 **MERN Stack Projects**  
+  React + Node + MongoDB web applications  
+
+- 📱 **Mobile App Development**  
+  React Native based mobile applications  
 
 ---
 
 ## 📊 GitHub Stats
-![Hassam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malik-Hassam-Ullah&show_icons=true&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Malik-Hassam-Ullah&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malik-Hassam-Ullah&theme=tokyonight"/>
+</p>
+
+---
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malik-Hassam-Ullah&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🚀 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Malik-Hassam-Ullah&theme=tokyo-night"/>
+</p>
 
 ---
 
 ## 📫 Contact Me
-- 📧 Email: your-email@example.com
-- 🔗 GitHub: https://github.com/Malik-Hassam-Ullah
+- 📧 Email: hassammalik638@gmail.com 
+- 🔗 GitHub: https://github.com/Malik-Hassam-Ullah  
 
 ---
 
-⭐ "Code. Learn. Build. Repeat."
-**Malik-Hassam-Ullah/Malik-Hassam-Ullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *"Code. Learn. Build. Improve."*
